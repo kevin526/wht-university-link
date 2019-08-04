@@ -1,0 +1,23 @@
+var univ_list = {
+    school: "湖南大众传媒学院",
+    id: "13720",
+    link: [ {
+        name: "大众传媒主页",
+        url: "http://www.hnmmc.cn//"
+    }, {
+        name: "教务系统",
+        url: "http://220.168.55.212:8000/home.aspx/"
+    },{
+        name: "图书馆系统",
+        url: "http://tsg.new.hnmmc.cn:8080/index.html/"
+    }, {
+        name: "阳光服务大厅",
+        url: "http://ygfw.hnmmc.cn:8800//"
+    }, {
+        name: "招生网",
+        url: "http://www.hnmmc.cn:85/"
+    }, {
+        name: "就业网",
+        url: "http://hnmmc.bysjy.com.cn/"
+    } ]
+};
